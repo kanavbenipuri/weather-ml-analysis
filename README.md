@@ -15,7 +15,6 @@ This project aims to build and compare machine learning models for weather forec
 1. **Clone the repository**
    ```bash
    git clone <repo-url>
-   cd ashoka
    ```
 2. **Install dependencies**
    ```bash
